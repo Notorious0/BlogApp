@@ -1,0 +1,24 @@
+# Node.js ve npm ile ilgili dosyalar
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Çevresel değişkenler ve yapılandırma dosyaları
+.env
+.DS_Store
+.vscode/
+.idea/
+
+# Logs
+logs
+*.log
+*.out
+
+# Diğer
+dist/
+build/
+coverage/
+*.tgz
+*.tmp
+
+
